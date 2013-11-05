@@ -165,4 +165,19 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-img.lemonade-world {width:400px;}
+img.lemonade-world {
+  width: 400px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.place-it {
+  font-size: .8em;
+  color: #999999;
+}
+
+.place-it a {
+  color: #999999;
+}
