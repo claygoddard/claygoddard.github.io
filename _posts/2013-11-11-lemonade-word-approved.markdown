@@ -10,7 +10,7 @@ Check out a quick overview of the game <a href="{{ site.url }}/lemonadeworld/">h
 
 If the game looks interesting, support me by purchasing it! I will be forever grateful.
 
-<a href="https://itunes.apple.com/us/app/lemonade-world/id737569362?ls=1&mt=8"><img src="{{ site_url}}/img/app_store_badge.png" /></a>
+<a href="https://itunes.apple.com/us/app/lemonade-world/id737569362?ls=1&mt=8"><img src="{{ site.url }}/img/app_store_badge.png" /></a>
 
 Also, if you have any praise, comments, hate-mail, etc, you can contact me at my email located at the bottom of the page.
 
